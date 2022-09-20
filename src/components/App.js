@@ -19,7 +19,7 @@ function Home() {
 function About(){
   return (
     <div id="about">
-      <h3>About</h3>
+      <h2>About</h2>
     </div>
   )
 }
